@@ -1,0 +1,69 @@
+movieId,title,details
+1,Toy Story (1995),transportation|bangladesh|bangla|teen|car|toyota
+2,Jumanji (1995),travel|india|hindi|teen|boattravel|shundorban
+3,Grumpier Old Men (1995),grocery|bangladesh|bangla|all|rice|chaldal
+4,Waiting to Exhale (1995),travel|bangladesh|bangla|all|plane travel|jetairways 
+5,Father of the Bride Part II (1995),education|Srilanka|singhali|all|tution|caretution
+6,Heat (1995),travel|bangladesh|bangla|teen|boattravel|shundorban
+7,Sabrina (1995),family|england|english|m|car|toyota
+8,Tom and Huck (1995),travel|india|hindi|all|plane travel|jetairways 
+9,Sudden Death (1995),grocery|english|english|m|rice|chaldal
+10,GoldenEye (1995),travel|australia|english|m|bangladesh biman |plane travel
+11,"American President, The (1995)",grocery|srilanka|singhal|all|rice|chaldal
+12,Dracula: Dead and Loving It (1995),elecrtonics|bangladesh|bangla|teen|mouse|LG
+13,Balto (1995),transportation|australia|english|all|car|toyota
+14,Nixon (1995),education|india|hindi|m|computer course|coursera
+15,Cutthroat Island (1995),travel|bangladesh|bangla|all|boat ride|shundorban
+16,Casino (1995),digital  service|england|english|teen|monitors|LG
+17,Sense and Sensibility (1995),transportation|india|hindi|teen|car|toyota
+18,Four Rooms (1995),travel|Srilanka|singhali|all|plane travel|jetairways 
+19,Ace Ventura: When Nature Calls (1995),education|england|english|m|computer course|coursera
+20,Money Train (1995),family|australia|english|all|rice|chaldal
+21,Get Shorty (1995),transportation|india|hindi||teen|car|toyota
+22,Copycat (1995),digital  service|india|hindi|m|monitors|samsung
+23,Assassins (1995),elecrtonics|bangladesh|bangla||m|monitors|LG
+24,Powder (1995),transportation|england|english||teen|car|toyota
+25,Leaving Las Vegas (1995),travel|australia|english|all|plane travel|jetairways 
+26,Othello (1995),grocery|india|tamil||m|rice|chaldal
+27,Now and Then (1995),elecrtonics|bangladesh|bangla||all|monitors|samsung
+28,Persuasion (1995),transportation|Srilanka|singhali||teen|car|toyota
+29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",education|bangladesh|bangla|all|tution|caretution
+30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),grocery|srilanka|singhal|all|rice|shopno
+31,Dangerous Minds (1995),elecrtonics|england|english|m|monitors|LG
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),travel|australia|english|m|plane travel|biman bangladesh
+34,Babe (1995),education|srilanka|singhal|all|tution|caretution
+36,Dead Man Walking (1995),transportation|india|tamil|m|car|toyota
+38,It Takes Two (1995),digital  service|india|hindi|all|monitors|samsung
+39,Clueless (1995),travel|australia|english|all|plane travel|biman bangladesh
+40,"Cry, the Beloved Country (1995)",family|bangladesh|bangla|all|car|toyota
+41,Richard III (1995),elecrtonics|england|english|teen|monitors|samsung
+42,Dead Presidents (1995),grocery|bangladesh|bangla|all|rice|shopno
+43,Restoration (1995),education|srilanka|singhal|m|tution|coursera
+44,Mortal Kombat (1995),transportation|srilanka|singhal|all|car|toyota
+45,To Die For (1995),digital  service|india|hindi|all|monitors|LG
+46,How to Make an American Quilt (1995),travel|bangladesh|bangla|all|plane travel|biman bangladesh
+47,Seven (a.k.a. Se7en) (1995),elecrtonics|australia|english|m|monitors|samsung
+48,Pocahontas (1995),grocery|england|english|all|rice|shopno
+49,When Night Is Falling (1995),education||india|tamil|m|tution|coursera
+50,"Usual Suspects, The (1995)",transportation|england|english|teen|car|toyota
+52,Mighty Aphrodite (1995),digital  service|australia|english|all|monitors|LG
+53,Lamerica (1994),elecrtonics||india|tamil|teen|monitors|samsung
+54,"Big Green, The (1995)",grocery|australia|english|m|rice|shopno
+55,Georgia (1995),elecrtonics|bangladesh|bangla|teen|monitors|samsung
+57,Home for the Holidays (1995),transportation|srilanka|singhal|teen|car|toyota
+58,"Postman, The (Postino, Il) (1994)",education|australia|english|all|tution|coursera
+60,"Indian in the Cupboard, The (1995)",grocery|india|tamil||m|rice|shopno
+61,Eye for an Eye (1996),travel|bangladesh|bangla|m|plane travel|jetairways 
+62,Mr. Holland's Opus (1995),digital  service|australia|english|m|monitors|LG
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),education|england|english|all|tution|coursera
+64,Two if by Sea (1996),transportation|srilanka|singhal|m|car|toyota
+65,Bio-Dome (1996),education|england|english|all|tution|caretution
+66,Lawnmower Man 2: Beyond Cyberspace (1996),education|Srilanka|singhali|all|tution|coursera
+68,French Twist (Gazon maudit) (1995),transportation|srilanka|singhal|m|car|toyota
+69,Friday (1995),education|england|english|m|tution|caretution
+70,From Dusk Till Dawn (1996),digital  service|india|hindi|7+|monitors|LG
+71,Fair Game (1995),elecrtonics||india|tamil|all|monitors|samsung
+72,Kicking and Screaming (1995),grocery|australia|english|all|rice|shopno
+73,"Misérables, Les (1995)",travel|bangladesh|bangla|all|plane travel|jetairways 
+74,Bed of Roses (1996),education|england|english|m|tution|coursera
+,,transportation|srilanka|singhal|all|car|toyota
